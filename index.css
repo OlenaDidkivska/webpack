@@ -1,0 +1,68 @@
+a {
+    text-decoration: none;
+    font-style: normal;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+
+    list-style: none;
+}
+
+li {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0px;
+    padding: 0px;
+}
+
+span {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+    width: 480px;
+    height: auto;
+    border-radius: 20px;
+}
+
+button {
+    width: 171px;
+    height: 41px;
+
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.8;
+
+    text-align: center;
+
+    background-color: teal;
+    color: #fff;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    border: none;
+    cursor: pointer;
+}
+
+.cardPrice {
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 1.36;
+}
